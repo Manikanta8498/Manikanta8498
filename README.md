@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikanta8498</h1>
+<h1 align="center">Hi 👋, I'm Manikanta Meda</h1>
 <h3 align="center">MERN-stack developer passionate about creating React Native mobile applications. Skilled in frontend and backend technologies, dedicated to crafting seamless user experiences</h3>
 
 <h3 align="left">Connect with me:</h3>
